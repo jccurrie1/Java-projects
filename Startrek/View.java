@@ -1,4 +1,4 @@
-package startrek;
+package Startrek;
 
 import java.util.Scanner;
 

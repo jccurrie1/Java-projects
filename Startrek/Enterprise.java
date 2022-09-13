@@ -1,4 +1,3 @@
-package startrek;
 
 import java.util.concurrent.ThreadLocalRandom;
 
